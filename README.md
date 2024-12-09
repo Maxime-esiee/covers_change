@@ -1,5 +1,5 @@
 # covers_change
-A small (but limited for now) script to change the image tag for flac files.
+A simple (but limited for now) script to change the image tag for flac files.
 
 It can be used in order to show the illustrations of the music in Recordbox, when the musics readers shows them but Recordbox don't.
 I mean it will simply change the tag for the covers of the id3 metadata.
