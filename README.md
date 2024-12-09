@@ -1,5 +1,5 @@
 # covers_change
-as simple as possible, a small script to organise the cover of albums from flac files.
+As simple as possible, a small script to organise the cover of albums from flac files.
 
 It can be used in order to show the illustrations of the music in Recordbox, when the musics readers read them but recordbox don't.
 
